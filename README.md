@@ -1,6 +1,23 @@
 # Stock Anomaly Detection  
 This is the final content after merging conflicts.
 
+# 📈 Stock Anomaly Detection Pipeline 🚀
+
+A real-time stock anomaly detection pipeline using **Kafka, Spark, and Pandas**.
+
+## 📌 Features
+- ✅ **Real-time stock data streaming** with Kafka
+- 🔥 **Processing and anomaly detection** using Spark
+- 📊 **Data visualization** with Pandas
+- 🛠 **End-to-end data pipeline setup**
+
+## 🛠 Installation
+```sh
+git clone https://github.com/Deepika99K/stock-anomaly-detection.git
+cd stock-anomaly-detection
+pip install -r requirements.txt
+
+
 This project builds a real-time stock anomaly detection pipeline using:
 - **Kafka** for real-time data streaming
 - **Spark** for data processing
